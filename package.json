@@ -1,0 +1,24 @@
+{
+  "name": "findyourhat",
+  "version": "1.0.0",
+  "description": "Javascript Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bangdt14/JS_Assessment.git"
+  },
+  "author": "Bang Duong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bangdt14/JS_Assessment/issues"
+  },
+  "homepage": "https://github.com/bangdt14/JS_Assessment#readme",
+  "dependencies": {
+    "clear-screen": "^1.0.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
